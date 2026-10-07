@@ -1,0 +1,121 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "experience_storage:block/xp_tank"
+      }
+    },
+    {
+      "when": {
+        "fill": "1"
+      },
+      "apply": {
+        "model": "experience_storage:block/xp_tank_liquid_1"
+      }
+    },
+    {
+      "when": {
+        "fill": "2"
+      },
+      "apply": {
+        "model": "experience_storage:block/xp_tank_liquid_2"
+      }
+    },
+    {
+      "when": {
+        "fill": "3"
+      },
+      "apply": {
+        "model": "experience_storage:block/xp_tank_liquid_3"
+      }
+    },
+    {
+      "when": {
+        "fill": "4"
+      },
+      "apply": {
+        "model": "experience_storage:block/xp_tank_liquid_4"
+      }
+    },
+    {
+      "when": {
+        "fill": "5"
+      },
+      "apply": {
+        "model": "experience_storage:block/xp_tank_liquid_5"
+      }
+    },
+    {
+      "when": {
+        "fill": "6"
+      },
+      "apply": {
+        "model": "experience_storage:block/xp_tank_liquid_6"
+      }
+    },
+    {
+      "when": {
+        "fill": "7"
+      },
+      "apply": {
+        "model": "experience_storage:block/xp_tank_liquid_7"
+      }
+    },
+    {
+      "when": {
+        "fill": "8"
+      },
+      "apply": {
+        "model": "experience_storage:block/xp_tank_liquid_8"
+      }
+    },
+    {
+      "when": {
+        "fill": "9"
+      },
+      "apply": {
+        "model": "experience_storage:block/xp_tank_liquid_9"
+      }
+    },
+    {
+      "when": {
+        "fill": "10"
+      },
+      "apply": {
+        "model": "experience_storage:block/xp_tank_liquid_10"
+      }
+    },
+    {
+      "when": {
+        "fill": "11"
+      },
+      "apply": {
+        "model": "experience_storage:block/xp_tank_liquid_11"
+      }
+    },
+    {
+      "when": {
+        "fill": "12"
+      },
+      "apply": {
+        "model": "experience_storage:block/xp_tank_liquid_12"
+      }
+    },
+    {
+      "when": {
+        "fill": "13"
+      },
+      "apply": {
+        "model": "experience_storage:block/xp_tank_liquid_13"
+      }
+    },
+    {
+      "when": {
+        "fill": "14"
+      },
+      "apply": {
+        "model": "experience_storage:block/xp_tank_liquid_14"
+      }
+    }
+  ]
+}

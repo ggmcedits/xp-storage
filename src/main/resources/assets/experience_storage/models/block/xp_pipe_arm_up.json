@@ -1,0 +1,61 @@
+{
+  "parent": "minecraft:block/block",
+  "ambientocclusion": false,
+  "render_type": "minecraft:translucent",
+  "textures": {
+    "0": "experience_storage:block/xp_pipe",
+    "particle": "experience_storage:block/xp_pipe"
+  },
+  "elements": [
+    {
+      "from": [
+        5.2,
+        10.8,
+        5.2
+      ],
+      "to": [
+        10.8,
+        16.0,
+        10.8
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            8.0,
+            8.5,
+            11.0,
+            11.0
+          ],
+          "texture": "#0"
+        },
+        "east": {
+          "uv": [
+            8.0,
+            8.5,
+            11.0,
+            11.0
+          ],
+          "texture": "#0"
+        },
+        "south": {
+          "uv": [
+            8.0,
+            8.5,
+            11.0,
+            11.0
+          ],
+          "texture": "#0"
+        },
+        "west": {
+          "uv": [
+            8.0,
+            8.5,
+            11.0,
+            11.0
+          ],
+          "texture": "#0"
+        }
+      }
+    }
+  ]
+}

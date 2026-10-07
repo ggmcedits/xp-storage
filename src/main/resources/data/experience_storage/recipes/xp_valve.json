@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "PE"
+  ],
+  "key": {
+    "P": {
+      "item": "experience_storage:xp_pipe"
+    },
+    "E": {
+      "item": "minecraft:emerald"
+    }
+  },
+  "result": {
+    "item": "experience_storage:xp_valve",
+    "count": 1
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "EEE",
+    "GPG"
+  ],
+  "key": {
+    "E": {
+      "item": "minecraft:emerald"
+    },
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "P": {
+      "item": "experience_storage:xp_pipe"
+    }
+  },
+  "result": {
+    "item": "experience_storage:xp_extractor",
+    "count": 1
+  }
+}

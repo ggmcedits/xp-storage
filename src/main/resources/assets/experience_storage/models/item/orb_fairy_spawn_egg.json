@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "experience_storage:item/orb_fairy_spawn_egg"
+  }
+}

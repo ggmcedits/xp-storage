@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "experience_storage:block/xp_extractor"
+    }
+  }
+}

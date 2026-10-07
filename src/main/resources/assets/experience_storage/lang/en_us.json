@@ -1,0 +1,11 @@
+{
+  "block.experience_storage.xp_tank": "Experience tank",
+  "block.experience_storage.xp_pipe": "Experience pipe",
+  "block.experience_storage.xp_extractor": "Experience extractor",
+  "block.experience_storage.xp_valve": "Experience valve",
+  "entity.experience_storage.orb_fairy": "Orb fairy",
+  "entity.experience_storage.xp_fluid": "Experience fluid",
+  "item.experience_storage.orb_fairy_spawn_egg": "Orb fairy Spawn",
+  "itemGroup.experience_storage.experience_flow": "ExperienceFlow",
+  "message.experience_storage.tank_contents": "Stored experience: %s / %s"
+}

@@ -1,0 +1,11 @@
+{
+  "block.experience_storage.xp_tank": "Serbatoio esperienza",
+  "block.experience_storage.xp_pipe": "Tubo esperienza",
+  "block.experience_storage.xp_extractor": "Estrattore esperienza",
+  "block.experience_storage.xp_valve": "Valvola esperienza",
+  "entity.experience_storage.orb_fairy": "Fata del globo",
+  "entity.experience_storage.xp_fluid": "Fluido esperienza",
+  "item.experience_storage.orb_fairy_spawn_egg": "Spawn fata del globo",
+  "itemGroup.experience_storage.experience_flow": "FlussoEsperienza",
+  "message.experience_storage.tank_contents": "Esperienza immagazzinata: %s / %s"
+}
